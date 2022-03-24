@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Belgium 🇧🇪 living in Canada 🇨🇦</h3>
 
 
-- 🔭 I’m currently working at: [Marketplace @ AlayaCare (we're hiring)](https://www.alayacare.com/careers)
+- 💻 I’m currently working at: [Marketplace @ AlayaCare (we're hiring)](https://www.alayacare.com/careers)
 
 - 🌱 I’m currently learning about: **Node, AWS**
 
