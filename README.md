@@ -2,7 +2,7 @@
 <h2 align="center">Full stack developer from Belgium 🇧🇪 living in Canada since 2019 🇨🇦</h2>
 
 
-- 💻 I’m currently working as a Staff Full Stack Developer at: [Marketplace & Adminssion Team @ AlayaCare](https://www.alayacare.com/careers)
+- 💻 I’m currently working as a Professional Service Consultant at: [Daya Labs](https://www.dayalabs.com/)
 
 - 💬 Ask me about: **Python, JavaScript**
 
