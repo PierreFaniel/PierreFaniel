@@ -2,7 +2,7 @@
 <h2 align="center">Full stack developer from Belgium 🇧🇪 living in Canada since 2019 🇨🇦</h2>
 
 
-- 💻 I’m currently working as a Staff Software Developr at: [AlayaCare](https://alayacare.com/)
+- 💻 I’m currently working as a Staff Software Developer at: [AlayaCare](https://alayacare.com/)
 
 - 💬 Ask me about: **Python, JavaScript**
 
