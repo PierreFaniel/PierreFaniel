@@ -2,11 +2,9 @@
 <h2 align="center">Full stack developer from Belgium 🇧🇪 living in Canada since 2019 🇨🇦</h2>
 
 
-- 💻 I’m currently working as a Professional Service Consultant at: [Daya Labs](https://www.dayalabs.com/)
+- 💻 I’m currently working as a Staff Software Developr at: [AlayaCare](https://alayacare.com/)
 
 - 💬 Ask me about: **Python, JavaScript**
-
-- ⚡ Fun fact: **I have a husky 🐕 and way too many photos of him**
 
 <h2 align="left">Languages and Tools</h2>
 
